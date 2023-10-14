@@ -9,7 +9,7 @@ A full-stack coding ninja with 3 years of experience crafting sleek web and mobi
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   🖥️  See my portfolio at [www.mohammedibrahim.tech](http://www.mohammedibrahim.tech)
 *   ✉️  You can contact me at [mohammedibrahim4641@gmail.com](mailto:mohammedibrahim4641@gmail.com)
-*   🧠  I'm learning Next.js, Nest.js, GO
+*   🧠  I'm learning Nest.js, GO
 *   🤝  I'm open to collaborating on anything cool<a href="https://www.github.com/MohammedIbrahim8887" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/MohammedIbrahim8887?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
