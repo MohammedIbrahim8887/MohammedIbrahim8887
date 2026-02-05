@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-A full-stack coding ninja with 3 years of experience crafting sleek web and mobile apps. Skilled in wielding modern frameworks like React, Express.js, and Flutter, I build robust front-ends that look amazing and back-ends that scale.
+A full-stack coding ninja with 4 years of experience crafting sleek web and mobile apps. Skilled in wielding modern frameworks like React, Express.js, and Flutter, I build robust front-ends that look amazing and back-ends that scale.
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
-*   🖥️  See my portfolio at [https://sanity-portfolio-tau.vercel.app]((https://sanity-portfolio-tau.vercel.app))
+*   🖥️  See my portfolio at [https://www.mohammedibrahim.dev)
 *   ✉️  You can contact me at [mohammedibrahim4641@gmail.com](mailto:mohammedibrahim4641@gmail.com)
 *   🧠  I'm learning Nest.js, GO
 *   🤝  I'm open to collaborating on anything cool<a href="https://www.github.com/MohammedIbrahim8887" target="_blank" rel="noreferrer">
